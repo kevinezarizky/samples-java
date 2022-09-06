@@ -1,0 +1,5 @@
+https://training.corda.net/getting-started/run-the-example-project/
+https://docs.r3.com/en/tutorials/corda/4.9/community/build-basic-cordapp/basic-cordapp-int-testing.html
+https://docs.r3.com/en/platform/corda/4.9/community/tutorial-cordapp.html
+run vaultTrack contractStateType: net.corda.samples.example.states.IOUState
+curl -i -X POST "http://localhost:50005/create-iou?iouValue=12&partyName=O=PartyB,L=New%20York,C=US" -H "Content-Type:application/x-www-form-urlencoded"

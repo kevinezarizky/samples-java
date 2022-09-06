@@ -52,3 +52,9 @@ task runPartyBServer(type: JavaExec, dependsOn: assemble) {
     main = 'net.corda.samples.example.webserver.Starter'
     args '--server.port=50006', '--config.rpc.host=localhost', '--config.rpc.port=10009', '--config.rpc.username=user1', '--config.rpc.password=test'
 }
+
+task runPartyCServer(type: JavaExec, dependsOn: assemble) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'net.corda.samples.example.webserver.Starter'
+    args '--server.port=50007', '--config.rpc.host=localhost', '--config.rpc.port=10013', '--config.rpc.username=user1', '--config.rpc.password=test'
+}

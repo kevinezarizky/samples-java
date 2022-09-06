@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2f70c6-dd38-4990-8c82-5e6cc0a19567" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/src/main/java/net/corda/samples/example/flows/ExampleFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/workflows/src/main/java/net/corda/samples/example/flows/ExampleFlow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/src/test/java/net/corda/samples/example/FlowTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/workflows/src/test/java/net/corda/samples/example/FlowTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/main/java/com/tutorial/flows/CreateAndIssueAppleStamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/main/java/com/tutorial/flows/CreateAndIssueAppleStamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/main/java/com/tutorial/flows/PackageApples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/main/java/com/tutorial/flows/PackageApples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/main/java/com/tutorial/flows/RedeemApples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/main/java/com/tutorial/flows/RedeemApples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/main/java/com/tutorial/flows/TemplateInitiator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/main/java/com/tutorial/flows/TemplateInitiator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/test/java/com/tutorial/CreateAndIssueAppleStampTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/test/java/com/tutorial/CreateAndIssueAppleStampTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/test/java/com/tutorial/FarmerSelfCreateBasketOfAppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/test/java/com/tutorial/FarmerSelfCreateBasketOfAppleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/test/java/com/tutorial/FlowTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/test/java/com/tutorial/FlowTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/test/java/com/tutorial/RedeemApplesWithStampTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorial-applestamp/workflows/src/test/java/com/tutorial/RedeemApplesWithStampTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae2f70c6-dd38-4990-8c82-5e6cc0a19567" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +45,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1lyrLNggqOnZplsX0yKPQgsNZ4g" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -65,13 +56,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
-    <property name="show.unlinked.gradle.project.popup" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Coding/CordaSamples/Basic/cordapp-example"
+  }
+}]]></component>
   <component name="RunManager" selected="Gradle.FlowTests">
     <configuration name="ContractTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
